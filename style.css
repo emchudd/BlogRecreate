@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lato', sans-serif;
+    padding:5px 30px 5px 30px;
+    border-radius: 25px;
+    border: 25px solid #bdc3c7;
+    margin: 10px 20px;
+    text-align: right;
+
+    
+}
+
+h2{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: 3.2px;
+    color: #3d3d3d;
+    text-align: left;
+    
+}
+
+h4{
+    color: #3498db;
+    text-align: right;
+}
+ 
+#first, #second, #fourth, #fifth{
+    border-bottom: 3px solid #BDC3C7;
+    margin: auto;
+    width: 99%;
+    padding:10px 10px;
+}
+
+#third{
+    border-bottom: 8px solid #bdc3c7;
+    padding: 10px;
+}
+#sixth{
+    padding:10px
+}
+h2:hover{
+    letter-spacing: 20px ;
+}
